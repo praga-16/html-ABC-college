@@ -104,7 +104,8 @@ name : pragatheesvarana AB
 
 ```
 #### Output:
-![table]![alt text](<web table.png>)
+![web table](https://github.com/praga-16/html-ABC-college/assets/95266924/9a4d4edf-7101-4f03-b449-3b73d2a9e3a7)
+
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
