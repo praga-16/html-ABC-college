@@ -142,7 +142,8 @@ name : pragatheesvarana AB
 </html>
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113509.png>)
+![Screenshot 2024-07-03 113607](https://github.com/praga-16/html-ABC-college/assets/95266924/57a423af-285c-433e-92be-2d15da0a1203)
+
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
@@ -199,7 +200,8 @@ name : pragatheesvarana AB
 
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113607.png>)
+![Screenshot 2024-07-03 113509](https://github.com/praga-16/html-ABC-college/assets/95266924/21d7d5f3-c40c-4f93-837b-b7a4ad486c66)
+
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
@@ -266,7 +268,8 @@ name : pragatheesvarana AB
 
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113553.png>)
+![Screenshot 2024-07-03 113553](https://github.com/praga-16/html-ABC-college/assets/95266924/5123778c-ce8b-4b70-9308-f29491c823c6)
+
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
@@ -309,7 +312,8 @@ name : pragatheesvarana AB
 
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113531.png>)
+![Screenshot 2024-07-03 113531](https://github.com/praga-16/html-ABC-college/assets/95266924/c3b64c22-7f5e-4123-91df-d1967330eb9b)
+
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
@@ -374,8 +378,9 @@ name : pragatheesvarana AB
 </html>
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113350.png>)
+![Screenshot 2024-07-03 113735](https://github.com/praga-16/html-ABC-college/assets/95266924/6116e921-4e24-4e10-8c07-729a1ab93b0b)
 #### Result:
+
  Thus,Creating a html file to display the content in the above picture was executed successfully.
 ##### mathematics.html
 ```
@@ -441,7 +446,8 @@ name : pragatheesvarana AB
 ```
 #### Output:
 
-![alt text](<Screenshot 2024-07-03 113635.png>)
+![Screenshot 2024-07-03 113350](https://github.com/praga-16/html-ABC-college/assets/95266924/69fdc26e-e4c4-402c-a46c-c84735988bf4)
+
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
 #### economis.html
@@ -506,7 +512,8 @@ name : pragatheesvarana AB
 
 ```
 #### Output:
-![alt text](<Screenshot 2024-07-03 113735.png>)
+
+![Screenshot 2024-07-03 113828](https://github.com/praga-16/html-ABC-college/assets/95266924/0c28c303-ace1-4e90-95e0-e1cbf2f33ee3)
 
 #### Result:
  Thus,Creating a html file to display the content in the above picture was executed successfully.
